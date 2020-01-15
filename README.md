@@ -19,9 +19,9 @@ an hour and this is unlikely to change drastically as of January 14.
 
 Whe you register, you can already tell us if you want to give a talk
 at the meeting. You will find the list of proposed talks in the
-[wiki](wiki/Proposed-Talks-at-the-OPM-Meeting-2020). If you did not
+[wiki](https://github.com/OPM/opm-meeting20/wiki/Proposed-Talks-at-the-OPM-Meeting-2020). If you did not
 do this and want to give one then please add yourself to the table
-in the [wiki](wiki/Proposed-Talks-at-the-OPM-Meeting-2020) or send an message pr Email to [Markus Blatt](/blattms).
+in the [wiki](https://github.com/OPM/opm-meeting20/wiki/Proposed-Talks-at-the-OPM-Meeting-2020) or send an message pr Email to [Markus Blatt](/blattms).
 
 ## Unconference and Discussion / Hacking groups
 
@@ -37,7 +37,7 @@ day) only consist of these highly productive parts of a conference. But
 here we need your help. Tell us what you want to discuss, what you want
 to work on. This is usually called an [unconference](https://en.wikipedia.org/wiki/Unconference).
 
-We will misuse this repository's issue tracker for proposing topics/groups in advance.
+We will misuse this repository's [issue tracker](https://github.com//OPM/opm-meeting20/issues/) for proposing topics/groups in advance.
 But you can still propose them onsite at the meeting. Please use the
 issue tracker to propose a topic with a short description. Please tag it
 with "user" (if it is of interest to users), "developers" (if it is of interest
@@ -56,4 +56,4 @@ There is a great chance that we might be able to attack all proposed topics/grou
 2020 the time available seems ample  and the number of proposed talks is still
 very tractable.
 
-If you do not have a github account then just send a mail to [Markus Blatt](/blattms).
+If you do not have a github account then just send a mail to [Markus Blatt](https://github.com/blattms).
