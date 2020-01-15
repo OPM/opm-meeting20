@@ -19,7 +19,7 @@ an hour and this is unlikely to change drastically as of January 14.
 
 Whe you register, you can already tell us if you want to give a talk
 at the meeting. You will find the list of proposed talks in the
-[wiki](wiki/Proposed-Talks-at-the-OPM-Meeting-2020).
+[wiki](https://github.com/OPM/opm-meeting20/wiki/Proposed-Talks-at-the-OPM-Meeting-2020).
 
 # Unconference and Discussion goups / Hacking groups
 
